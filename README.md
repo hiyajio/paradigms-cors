@@ -6,4 +6,8 @@ Simple Server-Client CORS request form using Bootstrap, GitHub Pages, and Cherry
   <img src="https://user-images.githubusercontent.com/50670255/97201630-09f5e380-1789-11eb-8ce7-7dfa8ffb79f9.png" alt="CORS Request Form Screenshot 1"/>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50670255/97201630-09f5e380-1789-11eb-8ce7-7dfa8ffb79f9.png" alt="CORS Request Form Screenshot 1"/>
+</p>
+
 ---
