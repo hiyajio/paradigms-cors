@@ -3,7 +3,7 @@ Documentation of my Notre Dame Fall 2020 Programming Paradigms course assignment
 Simple Server-Client CORS request form using Bootstrap, GitHub Pages, and CherryPy.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50670255/96538089-ba358a80-1265-11eb-8bbf-84ab9bf687f0.png" alt="Name-to-Pokemon Site Screenshot 1"/>
+  <img src="https://user-images.githubusercontent.com/50670255/97201630-09f5e380-1789-11eb-8ce7-7dfa8ffb79f9.png" alt="CORS Request Form Screenshot 1"/>
 </p>
 
 ---
